@@ -1,2 +1,2 @@
 # CMSSW-DeepTau
-Tau identification using Deep NN, by Konstantin Androsov, INFN Pisa &amp; Christian Veelken, Tallinn
+Engineering Deep Neural Architectures for Identifying Hadronic Tau Decays (τh) in CMS Open Data
